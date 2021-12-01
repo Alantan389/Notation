@@ -15,3 +15,6 @@ mean value
 
 
 <img width="471" alt="Screen Shot 2021-12-01 at 1 52 53 AM" src="https://user-images.githubusercontent.com/25523756/144212435-a511fac8-5e78-4e7c-b281-128a1ff1325e.png">
+
+
+<img width="821" alt="Screen Shot 2021-12-01 at 1 56 30 AM" src="https://user-images.githubusercontent.com/25523756/144212907-89c15d0a-2257-43d8-b56f-07b09c7bbf33.png">
