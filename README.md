@@ -25,3 +25,11 @@ calculate range, first quantile, thirld quantile , median
 
 
 <img width="690" alt="Screen Shot 2021-12-01 at 8 43 37 PM" src="https://user-images.githubusercontent.com/25523756/144359226-d6b04586-38f4-4d63-b0b9-d77fe3b99795.png">
+
+
+
+Calculate Standard Deviation and Variance 
+<img width="854" alt="Screen Shot 2021-12-02 at 10 37 29 AM" src="https://user-images.githubusercontent.com/25523756/144482878-48f7c34f-67f4-4388-82f1-a5aff808aa6c.png">
+
+
+
