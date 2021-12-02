@@ -18,3 +18,10 @@ mean value
 
 
 <img width="821" alt="Screen Shot 2021-12-01 at 1 56 30 AM" src="https://user-images.githubusercontent.com/25523756/144212907-89c15d0a-2257-43d8-b56f-07b09c7bbf33.png">
+
+
+
+calculate range, first quantile, thirld quantile , median 
+
+
+<img width="690" alt="Screen Shot 2021-12-01 at 8 43 37 PM" src="https://user-images.githubusercontent.com/25523756/144359226-d6b04586-38f4-4d63-b0b9-d77fe3b99795.png">
