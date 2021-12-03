@@ -33,3 +33,5 @@ Calculate Standard Deviation and Variance
 
 
 
+### Intuitive explanation for dividing by n-1 when calculating standard deviation 
+https://video.udacity-data.com/topher/2019/November/5dc4adcb_intuition-intuitive-explanation-for-dividing-by-n-1-when-calculating-standard-deviation-cross-validated/intuition-intuitive-explanation-for-dividing-by-n-1-when-calculating-standard-deviation-cross-validated.htm
